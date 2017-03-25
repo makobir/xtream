@@ -10,3 +10,5 @@ Simple offline bootstrap template for beginners
 1. bootstrap v3.3.7
 2. jQuery v1.12.4
 3. font-awesome v4.7.0
+## Developed By
+Xtream Coder
